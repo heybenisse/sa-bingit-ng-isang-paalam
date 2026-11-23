@@ -915,7 +915,9 @@ body {
 }
 
 .timeline-content em {
-    color: var(--wine);
+    color: #D7B57A;
+    font-style: italic;
+    font-weight: 500;
 }
 
 .timeline-source {
